@@ -1,0 +1,14 @@
+<div class="container">
+  <app-header></app-header>
+<div class="form-group">
+  <label for="result">Result</label>
+  <input type="text" class="form-horizontal" id="result" [(ngModel)]='calculator.result'>
+  <label for="value">Number</label>
+  <input type="text" class="form-horizontal" id="value" [(ngModel)]='calculator.value' required>
+</div>
+  <br><br>
+<button class="btn btn-info" (click)="addNumber()">Add</button>
+<button class="btn btn-success" (click)="substractNumber()">Substract</button>
+<button class="btn btn-warning" (click)="multiplyNumber()">Multiply</button>
+<button class="btn btn-danger" (click)="divideNumber()">Divide</button>
+</div>
