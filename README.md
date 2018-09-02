@@ -2,6 +2,8 @@
 
 # Commands
 -------------------
+* web3.js
+
 `npm install`
 
 `npm install -g truffle`
@@ -15,6 +17,17 @@
 `ng serve`
 
 `use a browser with Metamask and select private network`
+
+* IPFS
+
+ `install ipfs`
+ `ipfs init`
+ `ng build`
+ `in dist folder comment   <!--<base href="/">-->`
+ `ipfs add -r dist`
+ `Optional:`
+ `ipfs name publish <hash-generated-from-previous-command>`
+ `ipfs name resolve <hash-generated-from-previous-command>`
 
 
 
