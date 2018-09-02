@@ -38,9 +38,9 @@
   
   * IPFS URLS
   
-  `https://ipfs.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo/`
+  https://ipfs.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo
   
-  `https://gateway.ipfs.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo`
+  https://gateway.ipfs.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo
   
-  `https://ipfs.infura.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo/`
+  https://ipfs.infura.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo
   
