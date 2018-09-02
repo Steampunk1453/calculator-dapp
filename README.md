@@ -35,6 +35,12 @@
  `ipfs name publish <hash-generated-from-previous-command>`
  
  `ipfs name resolve <hash-generated-from-previous-command>`
-
-
-
+  
+  * IPFS URLS
+  
+  `https://ipfs.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo/`
+  
+  `https://gateway.ipfs.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo`
+  
+  `https://ipfs.infura.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo/`
+  
