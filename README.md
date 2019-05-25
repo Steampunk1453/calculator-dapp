@@ -22,6 +22,8 @@
 
  `install ipfs`
  
+ https://gist.github.com/MiguelBel/b3b5f711aa8d9362afa5f16e4e972461
+ 
  `ipfs init`
  
  `ng build`
@@ -43,4 +45,5 @@
   https://gateway.ipfs.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo
   
   https://ipfs.infura.io/ipfs/QmPoSSBVBZ7WeucxV1fPHsyRMCVBYguGJEg2EW9dheVsCo
+  
   
